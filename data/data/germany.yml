@@ -1,0 +1,33 @@
+country: Germany
+
+topics:
+  legal:
+    title: Residence and protection status
+    description: Information about legal stay and protection in Germany.
+    sources:
+      - https://www.bamf.de
+      - https://www.unhcr.org/de
+
+  housing:
+    title: Refugee accommodation
+    description: Housing and accommodation options.
+    sources:
+      - https://www.bmi.bund.de
+
+  healthcare:
+    title: Healthcare access
+    description: Access to healthcare services.
+    sources:
+      - https://www.germany4ukraine.de
+
+  education:
+    title: Education for children
+    description: School and kindergarten access.
+    sources:
+      - https://www.kmk.org
+
+  work:
+    title: Employment and social benefits
+    description: Employment rules and benefits.
+    sources:
+      - https://www.arbeitsagentur.de
